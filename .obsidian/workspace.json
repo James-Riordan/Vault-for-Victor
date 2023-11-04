@@ -11,9 +11,11 @@
             "id": "760f175e21bd92ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw Diagrams/The Customer Experience (Web UI).md"
+                "file": "Product Components.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw Diagrams/The Customer Experience (Web UI).md",
+                "file": "Product Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw Diagrams/The Customer Experience (Web UI).md",
+                "file": "Product Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw Diagrams/The Customer Experience (Web UI).md"
+                "file": "Product Components.md"
               }
             }
           }
@@ -147,9 +149,9 @@
   },
   "active": "760f175e21bd92ae",
   "lastOpenFiles": [
+    "Excalidraw Diagrams/The Customer Experience (Web UI).md",
     "Excalidraw Diagrams/User Request Flowchart (simple).md",
     "Excalidraw Diagrams/User Request Flowchart (advanced).md",
-    "Excalidraw Diagrams/The Customer Experience (Web UI).md",
     "Excalidraw Diagrams/Basic Requirements for Kubernetes in Production.md",
     "Attachments/Screenshot 2023-11-01 at 12.32.16 PM.png",
     "Attachments/Screenshot 2023-11-01 at 12.30.56 PM.png",

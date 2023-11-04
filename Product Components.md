@@ -70,9 +70,6 @@ NGINX is responsible for TLS/SSL termination, handing off unencrypted traffic to
 - Kured
 - Telepresence
 - kube-iptables-tailer
-
-+
-
 - Rclone
 - Kafka
 
@@ -81,13 +78,13 @@ NGINX is responsible for TLS/SSL termination, handing off unencrypted traffic to
 
 # Website
 
-##### Tech Stack:
+### Tech Stack:
 - SvelteKit
 - TailwindCSS
 
 ---
 
-### CLI Tool
+# CLI Tool
 
 Written in Go using the Cobra library
 
@@ -102,4 +99,4 @@ Built using Lago (+ Stripe)
 
 # Email Service
 
-ideally self-hosted using a solution such as MailCow. It would drastically reduce the monthly bill instead of a managed solution like gmail, but either is fine.
+ideally self-hosted using a solution such as MailCow. It would drastically reduce the monthly bill instead of a managed solution like gmail, but either one is fine.
